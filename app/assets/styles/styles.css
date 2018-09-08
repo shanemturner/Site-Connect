@@ -1,0 +1,15 @@
+$mainred: #AA0000;
+
+.feature-box a {
+    color: $mainred;
+    columns: 300px 2;
+}
+
+
+
+
+
+
+
+
+
